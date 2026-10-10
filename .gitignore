@@ -1,0 +1,10 @@
+.gradle/  
+build/  
+system-images/  
+platforms/  
+platform-tools/  
+emulator/  
+skins/  
+sources/  
+licenses/  
+*.avd 
