@@ -1,7 +1,4 @@
-Ось готовий єдиний текст для вашого файлу **`README.md`**, повністю адаптований під проєкт **Carpathian Jeep Tours AI** та оформлений за зразком:
-
-```markdown
-# Carpathian Jeep Tours AI 🏔️🚙
+ Carpathian Jeep Tours AI 🏔️🚙
 
 Android-додаток (Kotlin, Jetpack Compose, Room DB): вибір гірських маршрутів Карпат + клас позашляховика + інтелектуальний AI Safety Engine + калькулятор вартості туру + локальне збереження замовлень[cite: 1]. Пакет: `com.example.jeeptours`.
 
